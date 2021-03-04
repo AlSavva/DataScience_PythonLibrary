@@ -43,3 +43,5 @@ F1-score (sklearn.metrics.f1_score)
 * **Monthly Debt** - ежемесячный долг
 * **Credit Score** - баллы кредитного рейтинга
 * **Credit Default** - факт невыполнения кредитных обязательств (0 - погашен вовремя, 1 - просрочка)
+
+[Ссылка на ноутбук на Kaggle]( https://www.kaggle.com/savvaal/notebook79f21ff2ee)
