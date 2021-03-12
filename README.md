@@ -11,7 +11,8 @@ DataScience_PythonLibrary courses GeekBrains
 R2 - коэффициент детерминации (sklearn.metrics.r2_score)  
 <center><a href="https://www.codecogs.com/eqnedit.php?latex=R^2=1-\frac{\sigma^2}{\sigma_y^2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?R^2=1-\frac{\sigma^2}{\sigma_y^2}" title="R^2=1-\frac{\sigma^2}{\sigma_y^2}" /></a>
 
-Описание датасета:
+Описание датасета:  
+
 Id - идентификационный номер квартиры
 
 DistrictId - идентификационный номер района
